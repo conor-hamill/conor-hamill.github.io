@@ -54,4 +54,4 @@ custom_social: # can be any name here other than the ones already defined above
 custom_storygraph_social: # can be any name here other than the ones already defined above
   logo: assets/img/socials/storygraph-svgrepo-com.svg # can be png, svg, jpg
   title: Storygraph
-  url: https://www.goodreads.com/user/show/46128883-conor-hamill/
+  url: https://app.thestorygraph.com/profile/conor_hamill
