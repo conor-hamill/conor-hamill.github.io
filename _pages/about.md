@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 Data scientist/AI researcher working in financial services, based in Edinburgh, Scotland.
 My interests consist of supervised learning techniques, agent-based modelling, model drift estimation, and human-like abilities of large language models, alongside enduring curiosity about astrophysics and quantum computing.
 Outside data science, I enjoy travelling with my wife, espionage and thriller novels, comedy podcasts, and cooking.
