@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: other
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: data science resources
+    permalink: /data_science_resources/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: life outside data
+    permalink: /life_outside_data/
 ---
