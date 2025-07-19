@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I presented our talk titled “The Landscape of LLM Agent Applications in Finance and Banking” at the INFORMS Conference on Service Science 2025 at the University of Birmingham.
-date: 2025-02-28 11:59:00-0400
+date: 2025-07-03 11:59:00-0400
 inline: false
 related_posts: true
 ---
