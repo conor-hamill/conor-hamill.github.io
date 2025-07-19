@@ -144,6 +144,8 @@ newsletter:
 
 # TODO: update to match previous website
 collections:
+  books:
+    output: true
   news:
     defaults:
       layout: post
