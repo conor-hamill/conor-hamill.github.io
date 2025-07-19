@@ -48,7 +48,7 @@ scholar_userid: PgLWZLgAAAAJ # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://img.icons8.com/ios/50/goodreads.png # can be png, svg, jpg
+  logo: assets/img/socials/icons8-goodreads-24.png # can be png, svg, jpg
   title: Goodreads
   url: https://www.goodreads.com/user/show/46128883-conor-hamill/
 custom_storygraph_social: # can be any name here other than the ones already defined above
