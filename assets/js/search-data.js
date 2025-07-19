@@ -277,7 +277,7 @@ ninja.data = [{
         title: 'Custom_storygraph_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.goodreads.com/user/show/46128883-conor-hamill/", "_blank");
+          window.open("https://app.thestorygraph.com/profile/conor_hamill", "_blank");
         },
       },{
       id: 'light-theme',
