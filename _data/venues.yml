@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+"EPJA":
+  url: https://link.springer.com/journal/10050
+
+"PhysRevLett":
+  url: https://prl.aps.org/
+
+"EPJConf":
+  url: https://www.epj-conferences.org/
+
+"arXiv":
+  url: https://arxiv.org/
