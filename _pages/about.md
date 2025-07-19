@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior Data Scientist/AI Researcher | Nuclear Astrophysics PhD Graduate
 
 profile:
   align: right
