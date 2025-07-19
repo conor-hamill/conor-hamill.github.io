@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-09-14 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Use of spectroscopic factor measurements from PhD publication in a [complementary experimental study](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.108.035807), concluding that "[the 25Al(p, gamma)26Si reaction] is now sufficiently well constrained to be used in models which estimate the galactic abundance of 26Al". :star:
