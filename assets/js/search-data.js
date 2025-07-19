@@ -273,6 +273,13 @@ ninja.data = [{
           window.open("https://www.goodreads.com/user/show/46128883-conor-hamill/", "_blank");
         },
       },{
+        id: 'social-custom_storygraph_social',
+        title: 'Custom_storygraph_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.goodreads.com/user/show/46128883-conor-hamill/", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
