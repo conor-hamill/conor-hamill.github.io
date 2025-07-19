@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior Data Scientist at NatWest Group | Experimental Nuclear Astrophysics PhD Graduate
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Senior Data Scientist</p>
+    <p>Natwest Group</p>
+    <p>Edinburgh, Scotland</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,9 +26,20 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Data scientist/AI researcher working in financial services, based in Edinburgh, Scotland.
+My interests consist of supervised learning techniques, agent-based modelling, model drift estimation, and human-like abilities of large language models, alongside enduring curiosity about astrophysics and quantum computing.
+Outside data science, I enjoy travelling with my wife, espionage and thriller novels, comedy podcasts, and cooking.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I graduated from my integrated Master's in Physics from Queen's University, Belfast in 2017.
+My Master's project consisted of contributing to the development of a laser system for discriminating between chiral molecules, with experiments taking place at Uppsala University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Following my Master's, I started my PhD in experimental nuclear astrophysics at the University of Edinburgh.
+My initial research included being part of the A2 collaboration at the Mainz Microtron MAMI, Germany, with focus on photo-nuclear reactions.
+I undertook simulations and experimental preparation for the measurement of astrophysical reactions relevant to the production of radioactive nuclei in supernovae at the ISOLDE facility at CERN and a participated in the running of experiments into radioactive isotopes at the CRIB facility, Japan.
+My main PhD research topic consisted on measuring transfer reactions at TUNL, North Carolina, USA, for nova explosions and
+the astrophysical weak s-process, which can be read [here](https://era.ed.ac.uk/handle/1842/38582).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I defended my PhD in 2021 and joined NatWest Group as a data scientist in the Data Science &amp; Innovation team.
+My work at NatWest has consisted of developing machine learning models across a range of domains in the bank, as well as undertaking AI research for financial services as [part of the NatWest AI Research (NAIR) team](https://www.natwestgroup.com/news-and-insights/latest-stories/ai-and-data/2024/aug/ai-research.html).
+
+My published research works as a PhD research student and during my time as part of NAIR in NatWest can be found under the publications tab, as well as by following the link to my Google Scholar profile below.
