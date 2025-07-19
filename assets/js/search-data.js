@@ -440,18 +440,46 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-use-of-spectroscopic-factor-measurements-from-phd-publication-in-a-complementary-experimental-study-concluding-that-the-25al-p-gamma-26si-reaction-is-now-sufficiently-well-constrained-to-be-used-in-models-which-estimate-the-galactic-abundance-of-26al-star",
+          title: 'Use of spectroscopic factor measurements from PhD publication in a complementary experimental study,...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-publication-of-our-paper-on-agent-based-modelling-for-credit-card-promotions-on-arxiv-credit-card",
+          title: 'Publication of our paper on agent-based modelling for credit card promotions on arXiv....',
+          description: "",
+          section: "News",},{id: "news-started-new-role-as-senior-data-scientist-at-natwest-group-continuing-as-part-of-the-data-scientist-and-innovation-team-scientist",
+          title: 'Started new role as senior data scientist at NatWest Group, continuing as part...',
+          description: "",
+          section: "News",},{id: "news-publication-of-a-review-paper-i-contributed-to-titled-a-brief-review-of-quantum-machine-learning-for-financial-services-as-part-of-a-collaboration-between-the-natwest-group-and-the-university-of-edinburgh-computer",
+          title: 'Publication of a review paper I contributed to titled “A Brief Review of...',
+          description: "",
+          section: "News",},{id: "news-a-sample-of-our-ai-research-is-highlighted-on-the-natwest-group-website-scientist",
+          title: 'A sample of our AI research is highlighted on the NatWest Group website....',
+          description: "",
+          section: "News",},{id: "news-represented-natwest-at-the-careers-event-of-the-2024-nuclear-physics-summer-school-in-durham",
+          title: 'Represented NatWest at the careers event of the 2024 Nuclear Physics Summer School...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_7/";
+            },},{id: "news-on-the-6th-september-raad-khraishi-and-i-will-be-presenting-a-talk-at-odsc-europe-2024-titled-simulating-human-behaviour-in-financial-contexts-leveraging-ai-and-agent-based-models-highlighting-some-of-the-research-being-undertaken-at-natwest-group-speech-balloon",
+          title: 'On the 6th September, Raad Khraishi and I will be presenting a talk...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-attended-neurips-2024-sponsored-by-natwest",
+          title: 'Attended NeurIPS 2024, sponsored by NatWest',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_8/";
+            },},{id: "news-my-work-as-part-of-natwest-ai-research-nair-using-agent-based-modelling-to-model-credit-card-promotions-is-published-in-the-international-journal-of-bank-marketing-credit-card",
+          title: 'My work as part of NatWest AI Research (NAIR) using agent-based modelling to...',
+          description: "",
+          section: "News",},{id: "news-the-natwest-group-ai-amp-amp-engineering-blog-is-published-at-nwg-ai-including-an-article-written-by-myself-on-the-natwest-group-ai-team-at-neurips-2024-pen",
+          title: 'The NatWest Group AI &amp;amp;amp; Engineering blog is published at nwg.ai, including an...',
+          description: "",
+          section: "News",},{id: "news-i-presented-our-talk-titled-the-landscape-of-llm-agent-applications-in-finance-and-banking-at-the-informs-conference-on-service-science-2025-at-the-university-of-birmingham",
+          title: 'I presented our talk titled “The Landscape of LLM Agent Applications in Finance...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_11/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
