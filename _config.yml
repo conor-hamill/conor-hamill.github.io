@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Blog posts # blog_name will be displayed in your blog page
-blog_description: A small collection of blog posts. The views expressed here are my own, not those of my employer.
+blog_description: A small collection of my blog posts, alongside links to the NatWest AI & Engineering blog. The views expressed in the articles written by myself are my own, not those of my employer. The views and opinions expressed in articles on the NatWest AI & Engineering blog are those of the author(s) and do not necessarily represent the views of the NatWest Group.
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
@@ -124,6 +124,8 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@conorhamill36/feed
+  - name: nwg.ai
+    rss_url: https://nwg.ai/feed
 #  - name: Google Blog
 #    posts:
 #      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
